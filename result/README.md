@@ -1,4 +1,6 @@
-# The privacy Number leakage risk of GPT2
+# DEPN on GPT2
+
+## The privacy Number leakage risk of GPT2
 
 |Model|Epoch|Training Time|Validation PPL|Exposure|
 |----|----|----|----|----|
@@ -6,7 +8,7 @@
 
 we trained GPT2 on Enorn Dataset for 10 epochs with 4 A6000 GPUs, which spent 24 hours. The validation perplexity of this model is 8.40, and the averge exposure of memorized Telephone Numbers is 12.1.
 
-# The privacy Number leakage risk of privacy erased GPT2
+## The privacy Number leakage risk of privacy erased GPT2
 
 |Model|Edited Neurons|Editing Time|Before Editing|After Editing|
 |----|----|----|----|----|
