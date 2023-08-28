@@ -2,7 +2,7 @@
 
 |Model|Training Time|Validation PPL|Exposure|
 |----|----|----|----|
-|GPT2||24h|8.40|12.1|
+|GPT2|24h|8.40|12.1|
 
 # The privacy leakage risk of privacy erased GPT2
 
