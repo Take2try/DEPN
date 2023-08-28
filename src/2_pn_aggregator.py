@@ -15,8 +15,8 @@ kn_dir = sys.argv[1]+'kn/'
 data_path = sys.argv[2]
 txt_type = sys.argv[3]
 
-threshold_ratio = 0.1  # 在单个文本对应的神经元中，过滤积分梯度小于最大值一定比例的神经元
-mode_ratio_bag = 0.5  # parse_kn中筛选当前bag中重合数量超过一定比例的神经元
+threshold_ratio = 0.1  
+mode_ratio_bag = 0.5  
 
 with open(data_path,'r') as f:
     lines = f.readlines()
