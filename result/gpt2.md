@@ -1,6 +1,6 @@
 # The privacy Number leakage risk of GPT2
 
-|Model|EpochTraining Time|Validation PPL|Exposure|
+|Model|Epoch|Training Time|Validation PPL|Exposure|
 |----|----|----|----|----|
 |GPT2|10|24h|8.40|12.1|
 
