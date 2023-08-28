@@ -1,7 +1,3 @@
-"""
-BERT MLM runner
-"""
-
 import logging
 import argparse
 import math
